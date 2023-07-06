@@ -1,0 +1,15 @@
+div{
+    border: 4px solid #30336b;
+    background-color: #f9ca24;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+
+} 
+h1{
+    text-align: center;
+    color: darkgreen;
+} 
+body{
+    background-image: url(https://img.freepik.com/premium-vector/seamless-honeycomb-pattern-swett-yellow-background-vector-bee-pattern_166089-1913.jpg?size=626&ext=jpg&ga=GA1.1.779746238.1688590845&semt=ais);
+} 
